@@ -75,8 +75,6 @@ i
 9Topics/While loops/The length of the sequence/src/Main.kt,d\d\dd8b643b0e450baa50e6a847c0f18f25d896aa7a
 g
 7Topics/While loops/The sequence 1 2 2 3 3 3/src/Main.kt,0\a\0a03efd5b64dc6599fea90524494de2fa7848612
-O
-Zookeeper/task/src/Zookeeper.kt,a\8\a8e3f446ecf59c7ad3ef4ee7966de9ccd5300b6b
 \
 ,Topics/Ranges/Within both ranges/src/Main.kt,d\7\d773842c5f8a4a34b64aabf57b0bf9030cfd429e
 ]
@@ -93,7 +91,3 @@ c
 ,Topics/Comments/Uncomment a line/src/Main.kt,4\6\46cda57c887bee6c6b279f907a3a5f356ad09407
 e
 5Topics/Declaring functions/Right equation/src/Main.kt,5\2\52f69b201e65ca76568330e69bf13975f6378142
-\
-,Topics/Type system/String length/src/Main.kt,e\8\e8aa79cf930451b3253f4cb7724233a218d77706
-X
-(Topics/Ranges/Within a range/src/Main.kt,1\5\156abc24373854d468775eb65dbfccd322ec3afa

@@ -38,10 +38,10 @@ topics:
   1:
   - title: Units of information
     theory_id: 6865
-  - title: The classification of basic types
-    theory_id: 4455
   - title: Standard input
     theory_id: 4445
+  - title: The classification of basic types
+    theory_id: 4455
   - title: Type conversion
     theory_id: 4672
   - title: String basics
@@ -53,6 +53,8 @@ topics:
   2:
   - title: Binary numbers
     theory_id: 5544
+  - title: Hexadecimal numbers
+    theory_id: 8788
   - title: Reading data with a readln
     theory_id: 11224
   - title: Arithmetic operations
