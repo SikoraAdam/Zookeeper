@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Characters-Compare_Latin_letters.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Sequence.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Comments-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Comments-Uncomment_a_line.main" target="11" />
+      <module name="Zookeeper.Topics-Declaring_functions-Right_equation.main" target="11" />
+      <module name="Zookeeper.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Healthy_sleep.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Leap_year.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Queens.main" target="11" />
+      <module name="Zookeeper.Topics-If_expression-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Hello,_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Correct_statements.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Square_root.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-The_magic_of_println.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Zookeeper.Topics-Ranges-Between_two_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-Ranges-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Ranges-Within_a_range.main" target="11" />
+      <module name="Zookeeper.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readln-How_to_learn_the_whole_Kotlin_per_one_task.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Reading_data_with_a_readln-toDouble__.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-What_is_the_result.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Grades.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Addition_and_multiplication.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-JSON.main" target="11" />
+      <module name="Zookeeper.Topics-String_basics-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Zookeeper.Topics-String_templates-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Cutting_the_fraction.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Simple_converter.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Sum_of_Longs.main" target="11" />
+      <module name="Zookeeper.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Type_system-String_length.main" target="11" />
+      <module name="Zookeeper.Topics-Type_system-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Statements.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-When_expression-Direction.main" target="11" />
+      <module name="Zookeeper.Topics-When_expression-String_processor.main" target="11" />
+      <module name="Zookeeper.Topics-When_expression-The_army_of_units.main" target="11" />
+      <module name="Zookeeper.Topics-When_expression-The_number_of_digits.main" target="11" />
+      <module name="Zookeeper.Topics-When_expression-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Theory.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

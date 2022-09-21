@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Topics/If expression/Queens/out/
+/Topics/If expression/Queens/out/production/classes/
+/Topics/Integers in action/Desks/out/
+/Topics/Integers in action/Desks/out/production/classes/
+/Topics/Introduction to Kotlin/Hello, Kotlin/build/
+/Topics/Introduction to Kotlin/Theory/build/
+/Topics/Invoking functions/Correct statements/build/
+/Topics/Invoking functions/Square root/build/
+/Topics/Invoking functions/The magic of println/build/
+/Topics/Invoking functions/Theory/build/
+/Topics/Overview of the basic program/Theory/build/
+/Topics/Overview of the basic program/Your name/build/
+/Topics/Ranges/Within a range/out/
+/Topics/Ranges/Within a range/out/production/classes/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Standard output/Print code/build/
+/Topics/Standard output/Theory/build/
+/Topics/Standard output/Tic-Tac-Toe/build/
+/Topics/Standard output/We need to learn Kotlin/build/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/Values and variables/Statements/build/
+/Topics/Values and variables/Swap/build/
+/Topics/Values and variables/Theory/build/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Zookeeper/task/build/
+/Zookeeper/task/out/
+/Zookeeper/task/out/production/classes/
